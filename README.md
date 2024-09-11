@@ -1,7 +1,13 @@
-# cpu apple m1 up to 1.2m hash per seconds
+# alienworld nonce optimize
 
-require crypto nodejs module
 
+install
 ```
-npm install crypto
+using built in crypto module
+```
+
+performance
+```
+cpu : apple m1
+up to 1.2m hash per seconds
 ```
